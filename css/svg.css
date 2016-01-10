@@ -1,0 +1,9 @@
+#design {
+    stroke: green;
+}
+#circle_design {
+    stroke: black;
+    stroke-width: 1;
+    fill: lightblue;
+    opacity: 0.7;
+}
